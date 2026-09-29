@@ -1,0 +1,16 @@
+warehouse_id,warehouse_name,state,city,latitude,longitude,food_packets,water_bottles,medkits,blankets
+WH001,North Bengal Relief Warehouse,West Bengal,Siliguri,26.7271,88.3953,750000,1250000,30000,200000
+WH002,Kolkata Emergency Warehouse,West Bengal,Kolkata,22.5726,88.3639,1250000,2000000,48000,320000
+WH003,Assam Flood Relief Warehouse,Assam,Guwahati,26.1445,91.7362,1000000,1750000,40000,280000
+WH004,Bihar Emergency Warehouse,Bihar,Patna,25.5941,85.1376,1100000,1750000,44000,300000
+WH005,Odisha Flood Relief Warehouse,Odisha,Bhubaneswar,20.2961,85.8245,1100000,1750000,44000,300000
+WH006,Coastal Andhra Relief Warehouse,Andhra Pradesh,Vijayawada,16.5062,80.648,900000,1500000,36000,240000
+WH007,Telangana Relief Warehouse,Telangana,Hyderabad,17.385,78.4867,900000,1500000,36000,240000
+WH008,Uttar Pradesh Flood Relief Warehouse,Uttar Pradesh,Lucknow,26.8467,80.9462,1250000,2000000,48000,340000
+WH009,Kerala Disaster Relief Warehouse,Kerala,Kochi,9.9312,76.2673,800000,1400000,32000,220000
+WH010,Maharashtra Emergency Warehouse,Maharashtra,Mumbai,19.076,72.8777,1100000,1750000,44000,300000
+WH011,Tamil Nadu Flood Relief Warehouse,Tamil Nadu,Chennai,13.0827,80.2707,900000,1500000,36000,240000
+WH012,Chhattisgarh Relief Warehouse,Chhattisgarh,Raipur,21.2514,81.6296,700000,1200000,28000,180000
+WH013,Jharkhand Emergency Warehouse,Jharkhand,Ranchi,23.3441,85.3096,700000,1200000,28000,180000
+WH014,Punjab Flood Relief Warehouse,Punjab,Ludhiana,30.901,75.8573,750000,1250000,30000,200000
+WH015,Haryana Emergency Warehouse,Haryana,Gurugram,28.4595,77.0266,750000,1250000,30000,200000
